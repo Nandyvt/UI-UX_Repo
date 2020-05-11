@@ -44,6 +44,7 @@ body {
   color: black;
   border-radius: 10px;
   border: 1px solid #ccc;
+  min-height: 90vh;
 }
 
 .topnav {
